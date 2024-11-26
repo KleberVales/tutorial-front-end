@@ -56,5 +56,12 @@
     
    - Box Model:
      * Margens, preenchimentos, bordas e conteúdo.
-     * Controle de espaço com margin e padding. 
+     * Controle de espaço com margin e padding.
+
+2. Layouts e Posicionamento
+   - Display:
+     * block, inline, inline-block, none.
+
+   - Posicionamento:
+     * static, relative, absolute, fixed, sticky. 
      
