@@ -13,4 +13,5 @@ HTML: Estrutura e Conteúdo
    - Links: < a >.
    - Imagens: < img >.
    - Listas:
-     * Não ordenadas: < ul > e < li >. 
+     * Não ordenadas: < ul > e < li >.
+     * Ordenadas: < ol > e < li >. 
