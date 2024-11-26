@@ -18,4 +18,6 @@ HTML: Estrutura e Conteúdo
     
 3. Formatação de Texto
    - Negrito: < strong >.
-   - Itálico: < em >. 
+   - Itálico: < em >.
+   - Linhas horizontais: < hr >.
+   - Quebras de linha: < br >.
