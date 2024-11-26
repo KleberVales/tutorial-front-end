@@ -21,3 +21,8 @@ HTML: Estrutura e Conteúdo
    - Itálico: < em >.
    - Linhas horizontais: < hr >.
    - Quebras de linha: < br >.
+  
+4. Formulários
+   - Campos de entrada: < input > (texto, senha, email, etc.).
+   - Botões: < button >.
+   - Textarea: < textarea >. 
