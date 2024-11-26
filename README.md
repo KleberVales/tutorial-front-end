@@ -76,5 +76,14 @@
 
    - Layouts Responsivos:
      * Media Queries (@media).
-     * Tamanhos relativos (em, rem, %, vw, vh). 
+     * Tamanhos relativos (em, rem, %, vw, vh).
+    
+3. Estilização Avançada
+   - Cores e Fundos:
+     * Gradientes (linear-gradient, radial-gradient).
+     * Transparência com rgba, hsla.
+    
+4. Tipografia:
+   - Propriedades como font-size, line-height, letter-spacing.
+   - Fontes customizadas com @font-face.
      
