@@ -8,4 +8,6 @@ HTML: Estrutura e Conteúdo
    - Tags essenciais: < html >, < head >, < body >.
   
 2. Elementos e Tags Comuns
-   - Títulos: < h1 > a < h6 >. 
+   - Títulos: < h1 > a < h6 >.
+   - Parágrafos: < p >.
+   - Links: < a >. 
