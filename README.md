@@ -83,7 +83,33 @@
      * Gradientes (linear-gradient, radial-gradient).
      * Transparência com rgba, hsla.
     
-4. Tipografia:
-   - Propriedades como font-size, line-height, letter-spacing.
-   - Fontes customizadas com @font-face.
+   - Tipografia:
+     * Propriedades como font-size, line-height, letter-spacing.
+     * Fontes customizadas com @font-face.
+    
+   - Animações e Transições:
+     * transition (duração, atraso, timing-function).
+     * Criando animações com @keyframes.
+    
+   - Efeitos Avançados:
+     * Sombras (box-shadow, text-shadow).
+     * Clip-path para criar formas customizadas.
+     * Filtros (filter, blur, brightness).
+    
+ 4. Design Responsivo e Mobile-First
+    - Media Queries Avançadas:
+      * Breakpoints para dispositivos móveis, tablets e desktops.
+     
+    - Unidades e Funções Modernas:
+      * Uso de clamp(), min(), max() para tamanhos dinâmicos.
+      * Propriedades relativas como calc().
+     
+    - Frameworks CSS:
+      * Bootstrap, Tailwind CSS ou Foundation para acelerar o desenvolvimento.
+     
+
+
+
+  
+
      
