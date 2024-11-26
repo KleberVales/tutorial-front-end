@@ -1,6 +1,6 @@
 # Tutorial front-end
 
-HTML: Estrutura e Conteúdo 
+### HTML: Estrutura e Conteúdo 
 
 1. Introdução ao HTML
    - O que é HTML?
@@ -40,4 +40,10 @@ HTML: Estrutura e Conteúdo
 7. Links e Navegação
    - Links absolutos e relativos.
    - Navegação entre páginas e âncoras
+
+### CSS: Estrutura e Conteúdo 
+1. Fundamentos do CSS
+   - O que é CSS e como funciona?
+     * Cascading e herança.
+     * Como o navegador processa CSS. 
      
