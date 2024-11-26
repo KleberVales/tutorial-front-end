@@ -14,4 +14,8 @@ HTML: Estrutura e Conteúdo
    - Imagens: < img >.
    - Listas:
      * Não ordenadas: < ul > e < li >.
-     * Ordenadas: < ol > e < li >. 
+     * Ordenadas: < ol > e < li >.
+    
+3. Formatação de Texto
+   - Negrito: < strong >.
+   - Itálico: < em >. 
