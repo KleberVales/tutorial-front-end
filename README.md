@@ -72,5 +72,9 @@
 
      * CSS Grid:\
        Configuração de grades (grid-template-columns, grid-template-rows).\
-       Alinhamento e distribuição de itens. 
+       Alinhamento e distribuição de itens.
+
+   - Layouts Responsivos:
+     * Media Queries (@media).
+     * Tamanhos relativos (em, rem, %, vw, vh). 
      
