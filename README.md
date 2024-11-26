@@ -52,5 +52,9 @@
     
    - Seletores:
      * Básicos (tags, classes, IDs).
-     * Avançados (atributos, combinadores, pseudo-classes, pseudo-elementos). 
+     * Avançados (atributos, combinadores, pseudo-classes, pseudo-elementos).
+    
+   - Box Model:
+     * Margens, preenchimentos, bordas e conteúdo.
+     * Controle de espaço com margin e padding. 
      
