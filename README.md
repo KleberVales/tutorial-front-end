@@ -10,4 +10,7 @@ HTML: Estrutura e Conteúdo
 2. Elementos e Tags Comuns
    - Títulos: < h1 > a < h6 >.
    - Parágrafos: < p >.
-   - Links: < a >. 
+   - Links: < a >.
+   - Imagens: < img >.
+   - Listas:
+     * Não ordenadas: < ul > e < li >. 
