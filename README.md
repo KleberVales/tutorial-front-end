@@ -45,5 +45,12 @@
 1. Fundamentos do CSS
    - O que é CSS e como funciona?
      * Cascading e herança.
-     * Como o navegador processa CSS. 
+     * Como o navegador processa CSS.
+    
+   - Métodos de Aplicação do CSS:
+     * Inline, interno (<style> no HTML) e externo (.css).
+    
+   - Seletores:
+     * Básicos (tags, classes, IDs).
+     * Avançados (atributos, combinadores, pseudo-classes, pseudo-elementos). 
      
