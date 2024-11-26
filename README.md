@@ -63,5 +63,14 @@
      * block, inline, inline-block, none.
 
    - Posicionamento:
-     * static, relative, absolute, fixed, sticky. 
+     * static, relative, absolute, fixed, sticky.
+
+   - Modelos de Layout:
+     * Flexbox:
+       Eixos principal e transversal.
+       Propriedades como justify-content, align-items.
+
+     * CSS Grid:
+       Configuração de grades (grid-template-columns, grid-template-rows).
+       Alinhamento e distribuição de itens. 
      
