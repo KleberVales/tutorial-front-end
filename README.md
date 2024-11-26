@@ -67,7 +67,7 @@
 
    - Modelos de Layout:
      * Flexbox:\
-       Eixos principal e transversal.
+       Eixos principal e transversal.\
        Propriedades como justify-content, align-items.
 
      * CSS Grid:\
