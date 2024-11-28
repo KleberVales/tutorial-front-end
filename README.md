@@ -150,6 +150,12 @@
      - Uso de bibliotecas utilitárias (Lodash, Axios).
      - Gerenciamento de pacotes com npm/yarn.
 
+
+7. Controle de Versão e Debugging
+     - Depuração no navegador (dev tools).
+     - Controle de versão com Git.
+
+
      
 
 
