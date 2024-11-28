@@ -137,6 +137,12 @@
     - Manipulação de respostas JSON.
     - Gerenciamento de erros (try/catch).
     - APIs do navegador (geolocalização, localStorage, etc.).
+
+
+5. Integração com HTML e CSS
+    - Manipulação de formulários e validação.
+    - Alteração dinâmica de classes e estilos.
+    - Trabalhar com animações e transições CSS via JavaScript.
      
 
 
