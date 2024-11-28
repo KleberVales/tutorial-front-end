@@ -108,6 +108,19 @@
       * Bootstrap, Tailwind CSS ou Foundation para acelerar o desenvolvimento.
 
 ### JavaScript 
+
+1. Fundamentos do JavaScript
+
+Sintaxe básica (variáveis, operadores, tipos de dados).
+
+Estruturas de controle (if/else, switch, loops).
+
+Funções (declaração, expressão, arrow functions).
+
+Arrays e objetos (manipulação e métodos comuns).
+
+Manipulação de strings e números.
+
      
 
 
