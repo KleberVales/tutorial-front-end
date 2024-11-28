@@ -116,6 +116,15 @@
    - Arrays e objetos (manipulação e métodos comuns).
    - Manipulação de strings e números.
 
+
+2. Conceitos Avançados da Linguagem
+   - Escopo e hoisting.
+   - Event loop, call stack e assincronismo (promises, async/await).
+   - Closures.
+   - Manipulação de datas (Date).
+   - Modularização (import/export).
+   - Classes e herança.
+
      
 
 
