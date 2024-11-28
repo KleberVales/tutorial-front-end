@@ -130,6 +130,13 @@
    - Manipulação de atributos, classes e estilos.
    - Criação e remoção de elementos dinamicamente.
    - Eventos (addEventListener, bubbling e delegation).
+
+
+4. Trabalhando com APIs
+    - Fetch API (GET, POST, PUT, DELETE).
+    - Manipulação de respostas JSON.
+    - Gerenciamento de erros (try/catch).
+    - APIs do navegador (geolocalização, localStorage, etc.).
      
 
 
