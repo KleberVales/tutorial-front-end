@@ -125,6 +125,11 @@
    - Modularização (import/export).
    - Classes e herança.
 
+3. Manipulação do DOM (Document Object Model)
+   - Seleção de elementos (querySelector, getElementById, etc.).
+   - Manipulação de atributos, classes e estilos.
+   - Criação e remoção de elementos dinamicamente.
+   - Eventos (addEventListener, bubbling e delegation).
      
 
 
