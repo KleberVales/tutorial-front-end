@@ -143,6 +143,13 @@
     - Manipulação de formulários e validação.
     - Alteração dinâmica de classes e estilos.
     - Trabalhar com animações e transições CSS via JavaScript.
+
+
+6. Ferramentas e Bibliotecas
+     - Introdução ao uso de frameworks (como React ou Vue.js).
+     - Uso de bibliotecas utilitárias (Lodash, Axios).
+     - Gerenciamento de pacotes com npm/yarn.
+
      
 
 
