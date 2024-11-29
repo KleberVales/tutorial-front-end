@@ -163,6 +163,17 @@
    - Props: Como passar dados entre componentes.
    - State: Gerenciamento de estado local em componentes.
    - Eventos: Como lidar com eventos (ex: onClick, onChange).
+  
+2. Ciclo de Vida dos Componentes
+   - componentDidMount() e outros métodos de ciclo de vida (para componentes de classe).
+   - useEffect: Equivalente funcional para lidar com efeitos colaterais em componentes funcionais.
+  
+3. Hooks
+   - useState: Para gerenciar o estado em componentes funcionais.
+   - useEffect: Para lidar com efeitos colaterais em componentes funcionais.
+   - useContext: Para usar contexto de forma mais fácil.
+   - useRef: Para acessar elementos diretamente ou manter valores imutáveis.
+   - useMemo e useCallback: Para otimizar desempenho e evitar re-renderizações desnecessárias.
 
 
 
