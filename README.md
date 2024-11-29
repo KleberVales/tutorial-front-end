@@ -193,6 +193,11 @@
 8. Lidando com Dados
    - Fetching de dados: Usando fetch, axios, ou outras bibliotecas para buscar dados de APIs.
    - Promise e Async/Await para lidar com chamadas assíncronas.
+  
+9. Estilos em React
+    - CSS Modules: Estilos locais para componentes.
+    - Styled Components: Bibliotecas como styled-components para usar CSS dentro do JavaScript.
+    - CSS-in-JS: Abordagens para estilos dinâmicos e reutilizáveis.
 
 
 
