@@ -179,6 +179,10 @@
    - Context API: Para compartilhar dados entre componentes sem a necessidade de passar props.
    - Redux (ou outra solução): Para gerenciar o estado global da aplicação.
 
+5. React Router
+   - Roteamento: Navegação entre páginas dentro de uma aplicação React (ex: BrowserRouter, Route, Link).
+   - Parâmetros de URL e navegação programática: Usar links dinâmicos e redirecionamentos.
+
 
 
      
