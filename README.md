@@ -189,6 +189,10 @@
   
 7. Renderização Condicional
    - Técnicas para renderizar componentes ou partes da UI com base no estado ou dados.
+  
+8. Lidando com Dados
+   - Fetching de dados: Usando fetch, axios, ou outras bibliotecas para buscar dados de APIs.
+   - Promise e Async/Await para lidar com chamadas assíncronas.
 
 
 
