@@ -198,6 +198,11 @@
     - CSS Modules: Estilos locais para componentes.
     - Styled Components: Bibliotecas como styled-components para usar CSS dentro do JavaScript.
     - CSS-in-JS: Abordagens para estilos dinâmicos e reutilizáveis.
+  
+10. Boas Práticas e Padrões
+    - Componentização: Organizar a aplicação em pequenos componentes reutilizáveis.
+    - Hooks customizados: Criar hooks próprios para reutilizar lógica de componentes.
+    - Código limpo e manutenção: Escrever código legível, modular e testável.
 
 
 
