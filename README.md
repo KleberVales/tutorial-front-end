@@ -203,6 +203,11 @@
     - Componentização: Organizar a aplicação em pequenos componentes reutilizáveis.
     - Hooks customizados: Criar hooks próprios para reutilizar lógica de componentes.
     - Código limpo e manutenção: Escrever código legível, modular e testável.
+   
+11. Testes em React
+    - Jest: Framework para testes.
+    - React Testing Library: Testar a interface do usuário de forma mais próxima da experiência do usuário real.
+    - Enzyme: Biblioteca de testes para React (alternativa à React Testing Library).
 
 
 
