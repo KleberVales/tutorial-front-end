@@ -155,6 +155,16 @@
      - Depuração no navegador (dev tools).
      - Controle de versão com Git.
 
+### React
+
+1. Fundamentos do React
+   - JSX (JavaScript XML): Sintaxe para escrever componentes.
+   - Componentes: Função e classe, componentes funcionais e baseados em classe.
+   - Props: Como passar dados entre componentes.
+   - State: Gerenciamento de estado local em componentes.
+   - Eventos: Como lidar com eventos (ex: onClick, onChange).
+
+
 
      
 
