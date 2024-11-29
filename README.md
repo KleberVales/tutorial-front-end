@@ -174,6 +174,10 @@
    - useContext: Para usar contexto de forma mais fácil.
    - useRef: Para acessar elementos diretamente ou manter valores imutáveis.
    - useMemo e useCallback: Para otimizar desempenho e evitar re-renderizações desnecessárias.
+  
+4. Gerenciamento de Estado
+   - Context API: Para compartilhar dados entre componentes sem a necessidade de passar props.
+   - Redux (ou outra solução): Para gerenciar o estado global da aplicação.
 
 
 
