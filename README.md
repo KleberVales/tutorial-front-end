@@ -182,6 +182,13 @@
 5. React Router
    - Roteamento: Navegação entre páginas dentro de uma aplicação React (ex: BrowserRouter, Route, Link).
    - Parâmetros de URL e navegação programática: Usar links dinâmicos e redirecionamentos.
+  
+6. Forms em React
+   - Controle de formulários: Lidando com inputs controlados e não controlados.
+   - Validação de formulário: Como fazer a validação do formulário e tratar erros.
+  
+7. Renderização Condicional
+   - Técnicas para renderizar componentes ou partes da UI com base no estado ou dados.
 
 
 
