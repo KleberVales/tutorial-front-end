@@ -198,18 +198,13 @@
     - CSS Modules: Estilos locais para componentes.
     - Styled Components: Bibliotecas como styled-components para usar CSS dentro do JavaScript.
     - CSS-in-JS: Abordagens para estilos dinâmicos e reutilizáveis.
-  
-10. Boas Práticas e Padrões
-    - Componentização: Organizar a aplicação em pequenos componentes reutilizáveis.
-    - Hooks customizados: Criar hooks próprios para reutilizar lógica de componentes.
-    - Código limpo e manutenção: Escrever código legível, modular e testável.
-   
-11. Testes em React
+     
+10. Testes em React
     - Jest: Framework para testes.
     - React Testing Library: Testar a interface do usuário de forma mais próxima da experiência do usuário real.
     - Enzyme: Biblioteca de testes para React (alternativa à React Testing Library).
    
-12. Performance e Otimização
+11. Performance e Otimização
     - Lazy Loading: Carregar componentes de forma assíncrona.
     - Code splitting: Dividir o código para reduzir o tamanho da aplicação.
     - Memoização e Re-renderizações: Evitar re-renderizações desnecessárias com React.memo e useMemo.
